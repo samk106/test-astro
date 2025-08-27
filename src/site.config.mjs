@@ -21,6 +21,8 @@ export default {
         exploreArticlesByAuthors: "Explore articles organized by authors", // Authors page description
         readMore: "Read More", // Text for "Read More" links on featured posts
         shareThisArticle: "Share this article", // Share button text
+        showSocialShare: true, // Set to false to hide all social share buttons
+
     },
     pagination: {
         showPrevNext: true, // Show Previous/Next navigation buttons
